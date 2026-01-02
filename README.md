@@ -1,6 +1,6 @@
 # Protocolo Almanaque  
 ## Uma Estrutura em Camadas para a Origem do Tempo, Singularidades e Multiversos  
-### Introdução da Curva Finita Central
+### Aplicação da Curva Finita Central
 
 **Autor:** Heryon Davyd  
 
